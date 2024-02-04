@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	printf("Hello World from Jacob Anderson Make Me!\n\n");
+	printf("Hello World from Jacob Anderson!\n\n");
 
 return 0;
 
